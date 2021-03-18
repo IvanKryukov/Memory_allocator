@@ -1,2 +1,4 @@
-﻿  pool_mem_lib.cpp
+﻿  main.cpp
+  pool_mem_lib.cpp
+  Создание кода...
   Memory_allocator.vcxproj -> F:\STORAGE\Memory_allocator\Debug\Memory_allocator.exe

@@ -9,7 +9,7 @@
 #define RET_TEST_PASS(target_res, res, num) 	printf("[%02d] - ", num); if (target_res == res) printf("OK\n"); else { print_error_type(ret); return num; }
 #define PTR_TEST_PASS(target_ptr, ptr, num) 	printf("[%02d] - ", num); if (target_ptr == ptr) printf("OK\n"); else { printf("trgt: 0x%zX | crnt: 0x%zX\n", (size_t)target_ptr, (size_t)ptr); return num; }
 
-#define TEST_BUS_DATA_WIDTH	8
+#define TEST_BUS_DATA_WIDTH	(sizeof(size_t))
 
 #define POOL_SIZE	(128)	// user defined
 #define BLOCK_SIZE	(16)	// user defined
