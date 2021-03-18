@@ -139,8 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="pool_mem_lib.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="pool_mem_lib.c" />
+    <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pool_mem_lib.h" />

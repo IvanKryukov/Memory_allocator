@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="main.c">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
-    <ClCompile Include="alloc_pool_test.cpp">
+    <ClCompile Include="alloc_pool_test.c">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
   </ItemGroup>

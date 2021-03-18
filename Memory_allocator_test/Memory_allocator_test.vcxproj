@@ -139,8 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="alloc_pool_test.cpp" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="alloc_pool_test.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="alloc_pool_test.h" />
