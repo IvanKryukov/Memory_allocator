@@ -1,2 +1,4 @@
 ﻿  pool_mem_lib.c
-  Memory_allocator.vcxproj -> F:\STORAGE\Memory_allocator\Debug\Memory_allocator.exe
+  main.c
+  Создание кода...
+  Memory_allocator.vcxproj -> C:\Users\Ivan\Documents\VS2019_Projects\Memory_allocator\Debug\Memory_allocator.exe
